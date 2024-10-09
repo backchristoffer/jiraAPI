@@ -1,2 +1,2 @@
 # jiraAPI
-JIRA API connection
+JIRA API Tool - Work in progress
